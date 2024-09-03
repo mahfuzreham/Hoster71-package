@@ -1,4 +1,4 @@
-# Hoster_SH Hosting Packages
+# Hoster71 Hosting Packages
 
 Welcome to **Hoster71**! We offer a range of affordable hosting packages to suit your needs. Whether you're running a personal blog or an e-commerce site, we have a plan for you.
 
