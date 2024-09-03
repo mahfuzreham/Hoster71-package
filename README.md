@@ -1,6 +1,6 @@
 # Hoster_SH Hosting Packages
 
-Welcome to **Hoster_SH**! We offer a range of affordable hosting packages to suit your needs. Whether you're running a personal blog or an e-commerce site, we have a plan for you.
+Welcome to **Hoster71**! We offer a range of affordable hosting packages to suit your needs. Whether you're running a personal blog or an e-commerce site, we have a plan for you.
 
 ## Hosting Packages
 
@@ -61,9 +61,7 @@ All packages come with:
 - **CPU:** 1 Core
 - **IO:** 25
 
-## Get Started
-
-To get started with one of our hosting packages, [contact us](#) or visit our [website](#) for more details.
+All Package create Command: https://github.com/mahfuzreham/Hoster71-package/blob/808814dcf5998391ce33d56af5e0359f25e2edba/web-hosting-Cpanel
 
 ---
 
