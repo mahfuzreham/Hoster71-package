@@ -4,7 +4,7 @@ Welcome to **Hoster71**! We offer a range of affordable hosting packages to suit
 
 ## Hosting Packages
 
-### 1. Hoster_SH-10 (
+### 1. Hoster_SH-10 ( 1. Basic Plan ) 
 
 - **Price:** $10/year
 - **Storage:** 5 GB SSD
@@ -16,7 +16,7 @@ Welcome to **Hoster71**! We offer a range of affordable hosting packages to suit
 - **SSL Certificate:** Free
 - **Ideal For:** Small personal websites or blogs
 
-### 2. Hoster_SH-20
+### 2. Hoster_SH-20 (Standard Plan)
 
 - **Price:** $25/year
 - **Storage:** 20 GB SSD
@@ -28,7 +28,8 @@ Welcome to **Hoster71**! We offer a range of affordable hosting packages to suit
 - **SSL Certificate:** Free
 - **Ideal For:** Small business websites or portfolios
 
-### 3. Hoster_SH-50
+### 3. Hoster_SH-50 (3. Advanced Plan
+)
 
 - **Price:** $50/year
 - **Storage:** 50 GB SSD
@@ -41,7 +42,8 @@ Welcome to **Hoster71**! We offer a range of affordable hosting packages to suit
 - **Extras:** Daily backups, Website builder
 - **Ideal For:** Growing businesses or e-commerce sites
 
-### 4. Hoster_SH-100
+### 4. Hoster_SH-100 ( 4. Premium Plan
+)
 
 - **Price:** $100/year
 - **Storage:** 100 GB SSD
