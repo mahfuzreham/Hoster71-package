@@ -1,0 +1,59 @@
+#!/bin/bash
+
+# Create Hoster_SH-10
+whmapi1 createpkg \
+    name=Hoster_SH-10 \
+    quota=5000 \
+    bwlimit=50000 \
+    maxftp=5 \
+    maxsql=1 \
+    maxpop=5 \
+    maxsub=0 \
+    maxaddon=0 \
+    ip=n \
+    featurelist=default \
+    maxpark=0
+
+# Create Hoster_SH-20
+whmapi1 createpkg \
+    name=Hoster_SH-20 \
+    quota=20000 \
+    bwlimit=200000 \
+    maxftp=10 \
+    maxsql=3 \
+    maxpop=10 \
+    maxsub=0 \
+    maxaddon=0 \
+    ip=n \
+    featurelist=default \
+    maxpark=0
+
+# Create Hoster_SH-50
+whmapi1 createpkg \
+    name=Hoster_SH-50 \
+    quota=50000 \
+    bwlimit=500000 \
+    maxftp=25 \
+    maxsql=5 \
+    maxpop=25 \
+    maxsub=0 \
+    maxaddon=0 \
+    ip=n \
+    featurelist=default \
+    maxpark=0 \
+    backup=1
+
+# Create Hoster_SH-100
+whmapi1 createpkg \
+    name=Hoster_SH-100 \
+    quota=100000 \
+    bwlimit=unlimited \
+    maxftp=unlimited \
+    maxsql=unlimited \
+    maxpop=unlimited \
+    maxsub=unlimited \
+    maxaddon=unlimited \
+    ip=n \
+    featurelist=default \
+    maxpark=unlimited \
+    backup=1
