@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create Hoster_SH-10
-whmapi1 createpkg \
+whmapi1 addpkg \
     name=Hoster_SH-10 \
     quota=5000 \
     bwlimit=50000 \
@@ -15,7 +15,7 @@ whmapi1 createpkg \
     maxpark=0
 
 # Create Hoster_SH-20
-whmapi1 createpkg \
+whmapi1 addpkg \
     name=Hoster_SH-20 \
     quota=20000 \
     bwlimit=200000 \
@@ -29,7 +29,7 @@ whmapi1 createpkg \
     maxpark=0
 
 # Create Hoster_SH-50
-whmapi1 createpkg \
+whmapi1 addpkg \
     name=Hoster_SH-50 \
     quota=50000 \
     bwlimit=500000 \
@@ -44,7 +44,7 @@ whmapi1 createpkg \
     backup=1
 
 # Create Hoster_SH-100
-whmapi1 createpkg \
+whmapi1 addpkg \
     name=Hoster_SH-100 \
     quota=100000 \
     bwlimit=unlimited \
